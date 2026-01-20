@@ -1,0 +1,22 @@
+{
+    "version": "0.7.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mholzen/workflowy/releases/download/v0.7.2/workflowy_0.7.2_Windows_x86_64.zip",
+            "bin": [
+                "workflowy.exe"
+            ],
+            "hash": "8f7ab37bb048a04108a079af9e45b3529ee2bd552fa7808aa6ef74a607b2d7e1"
+        },
+        "arm64": {
+            "url": "https://github.com/mholzen/workflowy/releases/download/v0.7.2/workflowy_0.7.2_Windows_arm64.zip",
+            "bin": [
+                "workflowy.exe"
+            ],
+            "hash": "e6ea5c36ce829008ef87ac1c6b88c2f2364fdcc210c2c17509503370378459b4"
+        }
+    },
+    "homepage": "https://github.com/mholzen/workflowy",
+    "license": "MIT",
+    "description": "MCP server \u0026 CLI for Workflowy - search, bulk replace, reports, offline access"
+}
