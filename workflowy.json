@@ -1,19 +1,19 @@
 {
-    "version": "0.7.3",
+    "version": "0.7.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mholzen/workflowy/releases/download/v0.7.3/workflowy_0.7.3_Windows_x86_64.zip",
+            "url": "https://github.com/mholzen/workflowy/releases/download/v0.7.4/workflowy_0.7.4_Windows_x86_64.zip",
             "bin": [
                 "workflowy.exe"
             ],
-            "hash": "8c4cb1dbc3e53d8db1eb06165c78e653d27aa9b2caec967544d05c76217d772a"
+            "hash": "7c29f09cd245d5af07b2d7368c46704ffb6426faf7afe65dfe6ed3fa49bb9a1f"
         },
         "arm64": {
-            "url": "https://github.com/mholzen/workflowy/releases/download/v0.7.3/workflowy_0.7.3_Windows_arm64.zip",
+            "url": "https://github.com/mholzen/workflowy/releases/download/v0.7.4/workflowy_0.7.4_Windows_arm64.zip",
             "bin": [
                 "workflowy.exe"
             ],
-            "hash": "70a428989c51a60295d18565800da5555d522ccc4225325e645e77e20ab5a6a1"
+            "hash": "4eb5068ae23e91cd5ae6c5f740d6d814ef3e07a73e09fc304e44cb838adfc218"
         }
     },
     "homepage": "https://github.com/mholzen/workflowy",
